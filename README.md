@@ -59,7 +59,7 @@ share share share! as possible!
 ## Serialization
 * [UnityEngine.JsonUtility](https://docs.unity3d.com/ScriptReference/JsonUtility.html) (#unityengine) Utility functions for working with JSON data.
 * [fullserializer](https://github.com/jacobdufault/fullserializer) A robust JSON serialization framework that just works with support for all major Unity export platforms.
-* [msgpack-unity](https://github.com/pokehanai/msgpack-unity) MessagePack implementation for Unity
+* [msgpack-unity3d](https://github.com/deniszykov/msgpack-unity3d) MessagePack serializer for Unity3D
 * [msgpack-cli](https://github.com/msgpack/msgpack-cli) MessagePack implementation for Common Language Infrastructure. [IL2CPP supporting is in progress](https://github.com/msgpack/msgpack-cli/wiki/Xamarin-and-Unity)
 
 
