@@ -18,3 +18,4 @@
 * [VSColorOutput](https://visualstudiogallery.msdn.microsoft.com/f4d9c2b5-d6d7-4543-a7a5-2d7ebabc2496)
 * [Output enhancer](https://visualstudiogallery.msdn.microsoft.com/d2055300-5075-4059-a305-56422f4e29b5)
 * [VSSonarExtension](https://visualstudiogallery.msdn.microsoft.com/7fc312c3-f1ab-49f8-b286-dbf7fff37305)
+* [AutoHistory](https://visualstudiogallery.msdn.microsoft.com/dfcb2438-180c-4f8a-983b-62d89e141fe3)
