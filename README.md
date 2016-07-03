@@ -24,6 +24,7 @@ share share share! as possible!
   * [Gesture](#gesture)
   * [Framework](#framework)
   * [Tools](#tools)
+  * [Testing](#testing)
   * [PackageManager](#packagemanager)
 
 
@@ -73,9 +74,11 @@ share share share! as possible!
 * https://github.com/lvzixun/sproto-Csharp
     * https://github.com/m2q1n9/sproto-Unity
 
+
 ## DSL
 * [aaubry/YamlDotNet](https://github.com/aaubry/YamlDotNet) - YamlDotNet is a .NET library for YAML ([#assetstore](https://www.assetstore.unity3d.com/en/#!/content/36292))
 * [rickyah/ini-parser](https://github.com/rickyah/ini-parser) (#dll #net20)
+* [mustache-sharp-3.5](https://www.nuget.org/packages/mustache-sharp-3.5/) (#dll #nuget)
 
 
 ## Office
@@ -97,6 +100,8 @@ share share share! as possible!
 * https://github.com/Seanba/Tiled2Unity - Export Tiled Map Editor (TMX) files into Unity
 * https://github.com/suppayami/unity2d-tmx - A small library to import and render tilemap in Unity2D, only support TMX file format.
 * https://github.com/keijiro/ChromaPack - ChromaPack -- A lossy texture compression plugin for Unity.
+* https://github.com/WestHillApps/UniGif - GIF image decoder for Unity.
+
 
 
 
@@ -121,6 +126,11 @@ share share share! as possible!
 * https://github.com/neuecc/LINQ-to-GameObject-for-Unity - LINQ to GameObject - Traverse GameObject Hierarchy by LINQ
 * https://github.com/SaladLab/Unity3D.IncrementalCompiler
 * https://github.com/kalimaul/unity_svn_checker (#python) - Server-side svn hooks to help version control with Unity3D.
+
+
+## Testing
+* https://github.com/SpaceMadness/lunar-unity-assert
+
 
 ## PackageManager
 * https://github.com/GlitchEnzo/NuGetForUnity - A NuGet Package Manager for Unity
