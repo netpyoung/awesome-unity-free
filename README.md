@@ -19,9 +19,13 @@ share share share! as possible!
   * [DSL](#dsl)
   * [Office](#office)
   * [Log](#log)
+  * [Importer](#importer)
   * [XCode](#xcode)
   * [Gesture](#gesture)
   * [Framework](#framework)
+  * [Tools](#tools)
+  * [PackageManager](#packagemanager)
+
 
 * [Tutorial](#tutorial)
 
@@ -65,7 +69,9 @@ share share share! as possible!
 * [jacobdufault/fullserializer](https://github.com/jacobdufault/fullserializer) A robust JSON serialization framework that just works with support for all major Unity export platforms.
 * [deniszykov/msgpack-unity3d](https://github.com/deniszykov/msgpack-unity3d) MessagePack serializer for Unity3D
 * [msgpack/msgpack-cli](https://github.com/msgpack/msgpack-cli) MessagePack implementation for Common Language Infrastructure. [IL2CPP supporting is in progress](https://github.com/msgpack/msgpack-cli/wiki/Xamarin-and-Unity)
-
+* [bitcraftCoLtd/protobuf3-for-unity](https://github.com/bitcraftCoLtd/protobuf3-for-unity)
+* https://github.com/lvzixun/sproto-Csharp
+    * https://github.com/m2q1n9/sproto-Unity
 
 ## DSL
 * [aaubry/YamlDotNet](https://github.com/aaubry/YamlDotNet) - YamlDotNet is a .NET library for YAML ([#assetstore](https://www.assetstore.unity3d.com/en/#!/content/36292))
@@ -74,9 +80,25 @@ share share share! as possible!
 
 ## Office
 * [NPOI](http://npoi.codeplex.com/) (#dll #net20 #IL2CPP(mono2.0-subset-only)) - This project is the .NET version of POI Java project at http://poi.apache.org/.
+  * https://github.com/kimsama/Unity-QuickSheet
+  * https://github.com/tsubaki/Unity-Excel-Importer-Maker
+* [Busta117/SQLiteUnityKit](https://github.com/Busta117/SQLiteUnityKit) - Framework to connect with a SQLite database from Unity for iOS, Android, MAC , Windows
+* [codecoding/SQLite4Unity3d](https://github.com/codecoding/SQLite4Unity3d) - SQLite made easy for Unity3d
+
 
 ## Log
-[SpaceMadness/lunar-unity-console](https://github.com/SpaceMadness/lunar-unity-console)
+* [SpaceMadness/lunar-unity-console](https://github.com/SpaceMadness/lunar-unity-console)
+* https://github.com/bbbscarter/UberLogger - Replacement logging framework for Unity, with a new editor and in-game console
+* https://github.com/AqlaSolutions/NLog-Unity3D
+* https://github.com/SaladLab/Common.Logging.Unity3D
+
+
+## Importer
+* https://github.com/Seanba/Tiled2Unity - Export Tiled Map Editor (TMX) files into Unity
+* https://github.com/suppayami/unity2d-tmx - A small library to import and render tilemap in Unity2D, only support TMX file format.
+* https://github.com/keijiro/ChromaPack - ChromaPack -- A lossy texture compression plugin for Unity.
+
+
 
 ## Gesture
 * [prime31/TouchKit](https://github.com/prime31/TouchKit)
@@ -90,6 +112,21 @@ share share share! as possible!
 
 ## Framework
 * [neuecc/UniRx](https://github.com/neuecc/UniRx) - Reactive Extensions for Unity
+
+## Tools
+* [tomtc123/ugui-Tween-Tool](https://github.com/tomtc123/ugui-Tween-Tool)
+* [anchan828/unity-snippets](https://github.com/anchan828/unity-snippets)
+* https://github.com/tsubaki/SerializedParameter_Unity
+* https://github.com/tsubaki/Low-latency_Sound_for_UnityAndroid
+* https://github.com/neuecc/LINQ-to-GameObject-for-Unity - LINQ to GameObject - Traverse GameObject Hierarchy by LINQ
+* https://github.com/SaladLab/Unity3D.IncrementalCompiler
+* https://github.com/kalimaul/unity_svn_checker (#python) - Server-side svn hooks to help version control with Unity3D.
+
+## PackageManager
+* https://github.com/GlitchEnzo/NuGetForUnity - A NuGet Package Manager for Unity
+* https://github.com/wooga/Paket.Unity3D - http://wooga.github.io/Paket.Unity3D/
+
+
 
 
 ## Tutorial
