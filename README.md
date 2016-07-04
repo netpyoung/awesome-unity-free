@@ -20,6 +20,7 @@ share share share! as possible!
   * [Office](#office)
   * [Log](#log)
   * [Importer](#importer)
+  * [Compression](#compression)
   * [XCode](#xcode)
   * [Gesture](#gesture)
   * [Framework](#framework)
@@ -27,7 +28,6 @@ share share share! as possible!
   * [Testing](#testing)
   * [Protocol](#protocol)
   * [PackageManager](#packagemanager)
-  * [Testing](#testing)
 
 
 * [Tutorial](#tutorial)
@@ -105,7 +105,9 @@ share share share! as possible!
 * https://github.com/WestHillApps/UniGif - GIF image decoder for Unity.
 
 
-
+## Compression
+* [SharpzipLib](https://github.com/icsharpcode/SharpZipLib) -  #ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform
+* [lz4net](https://github.com/MiloszKrajewski/lz4net) - LZ4 - ultra fast compression algorithm - for all .NET platforms
 
 ## Gesture
 * [prime31/TouchKit](https://github.com/prime31/TouchKit)
@@ -132,6 +134,7 @@ share share share! as possible!
 
 
 ## Testing
+* [Unity Test Tools](https://www.assetstore.unity3d.com/en/#!/content/13802)
 * https://github.com/SpaceMadness/lunar-unity-assert
 
 
@@ -144,8 +147,6 @@ share share share! as possible!
 * https://github.com/GlitchEnzo/NuGetForUnity - A NuGet Package Manager for Unity
 * https://github.com/wooga/Paket.Unity3D - http://wooga.github.io/Paket.Unity3D/
 
-## Testing
-* [Unity Test Tools](https://www.assetstore.unity3d.com/en/#!/content/13802)
 
 
 ## Tutorial
