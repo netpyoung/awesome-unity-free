@@ -17,6 +17,7 @@ share share share! as possible!
   * [Tween](#tween)
   * [Serialization](#serialization)
   * [DSL](#dsl)
+  * [Network](#network)
   * [Office](#office)
   * [Log](#log)
   * [Importer](#importer)
@@ -73,6 +74,7 @@ share share share! as possible!
 * [deniszykov/msgpack-unity3d](https://github.com/deniszykov/msgpack-unity3d) MessagePack serializer for Unity3D
 * [msgpack/msgpack-cli](https://github.com/msgpack/msgpack-cli) MessagePack implementation for Common Language Infrastructure. [IL2CPP supporting is in progress](https://github.com/msgpack/msgpack-cli/wiki/Xamarin-and-Unity)
 * [bitcraftCoLtd/protobuf3-for-unity](https://github.com/bitcraftCoLtd/protobuf3-for-unity)
+* https://github.com/mgravell/protobuf-net
 * https://github.com/lvzixun/sproto-Csharp
     * https://github.com/m2q1n9/sproto-Unity
 
@@ -81,6 +83,10 @@ share share share! as possible!
 * [aaubry/YamlDotNet](https://github.com/aaubry/YamlDotNet) - YamlDotNet is a .NET library for YAML ([#assetstore](https://www.assetstore.unity3d.com/en/#!/content/36292))
 * [rickyah/ini-parser](https://github.com/rickyah/ini-parser) (#dll #net20)
 * [mustache-sharp-3.5](https://www.nuget.org/packages/mustache-sharp-3.5/) (#dll #nuget)
+
+
+## Network
+* * https://github.com/sta/websocket-sharp
 
 
 ## Office
@@ -131,6 +137,9 @@ share share share! as possible!
 * https://github.com/SaladLab/Unity3D.IncrementalCompiler
 * https://github.com/kalimaul/unity_svn_checker (#python) - Server-side svn hooks to help version control with Unity3D.
 * [animator-timeline](https://github.com/absameen/Animator_Timeline)
+
+* https://github.com/PhannGor/unity3d-rainbow-folders
+* https://github.com/Brackeys/UPAToolkit - A free Pixel Art Toolkit for the Unity Engine. http://brackeys.com/upa-toolkit/
 
 
 ## Testing
