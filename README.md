@@ -163,6 +163,9 @@ share share share! as possible!
 ### [Unity] shader
 * https://unitygem.wordpress.com/shader-part-1/
 * http://www.alanzucconi.com/2015/06/10/a-gentle-introduction-to-shaders-in-unity3d/
+* https://github.com/VoxelBoy/Resources-for-Writing-Shaders-in-Unity
+* http://anchan828.github.io/editor-manual/ #japanese
+
 
 ### tag-list
 ```tag-list
