@@ -20,3 +20,7 @@
 * [VSSonarExtension](https://visualstudiogallery.msdn.microsoft.com/7fc312c3-f1ab-49f8-b286-dbf7fff37305)
 * [AutoHistory](https://visualstudiogallery.msdn.microsoft.com/dfcb2438-180c-4f8a-983b-62d89e141fe3)
 * [NUnit Test Adapter](https://visualstudiogallery.msdn.microsoft.com/6ab922d0-21c0-4f06-ab5f-4ecd1fe7175d) - unity test tool used 2.6.4
+* [Visual StyleCop Free](https://visualstudiogallery.msdn.microsoft.com/cac2a05b-6eb6-4fa2-95b9-1f8d011e6cae)
+* [Viasfora](https://visualstudiogallery.msdn.microsoft.com/19609469-380e-4fcf-bcde-e31caeb658b2)
+* [Trim line ends on save Free](https://visualstudiogallery.msdn.microsoft.com/5120dd1c-1643-4f0d-ae2b-c61532df1951)
+* [SemanticColorizer](https://visualstudiogallery.msdn.microsoft.com/fd89374f-892a-42d6-8207-da8fefa93fdf)
