@@ -84,6 +84,7 @@ share share share! as possible!
 * https://github.com/mgravell/protobuf-net
 * https://github.com/lvzixun/sproto-Csharp
     * https://github.com/m2q1n9/sproto-Unity
+* https://github.com/neuecc/ZeroFormatter - Fastest C# Serializer and Infinitly Fast Deserializer for .NET, .NET Core and Unity.
 
 ## Validator
 * [FluentValidation.Net35](https://github.com/emersonsoares/FluentValidation.Net35)
