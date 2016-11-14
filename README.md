@@ -105,7 +105,7 @@ share share share! as possible!
   * https://github.com/tsubaki/Unity-Excel-Importer-Maker
 * [Busta117/SQLiteUnityKit](https://github.com/Busta117/SQLiteUnityKit) - Framework to connect with a SQLite database from Unity for iOS, Android, MAC , Windows
 * [codecoding/SQLite4Unity3d](https://github.com/codecoding/SQLite4Unity3d) - SQLite made easy for Unity3d
-
+* [netpyoung/SqlChiper4Unity3D](https://github.com/netpyoung/SqlCipher4Unity3D) - SqlCipher made easy for Unity3d
 
 ## Log
 * [SpaceMadness/lunar-unity-console](https://github.com/SpaceMadness/lunar-unity-console)
