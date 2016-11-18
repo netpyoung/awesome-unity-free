@@ -86,8 +86,11 @@ share share share! as possible!
     * https://github.com/m2q1n9/sproto-Unity
 * https://github.com/neuecc/ZeroFormatter - Fastest C# Serializer and Infinitly Fast Deserializer for .NET, .NET Core and Unity.
 
+
 ## Validator
 * [FluentValidation.Net35](https://github.com/emersonsoares/FluentValidation.Net35)
+* [JWT](https://github.com/jwt-dotnet/jwt) - JWT (JSON Web Token) implementation for .NET 3.5+ (Public Domain) Install-Package JWT
+
 
 ## DSL
 * [aaubry/YamlDotNet](https://github.com/aaubry/YamlDotNet) - YamlDotNet is a .NET library for YAML ([#assetstore](https://www.assetstore.unity3d.com/en/#!/content/36292))
