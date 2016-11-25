@@ -165,6 +165,8 @@ share share share! as possible!
 
 ## Testing
 * [Unity Test Tools](https://www.assetstore.unity3d.com/en/#!/content/13802)
+  - The Editor Tests Runner is an implementation of the open source NUnit library - a well-known unit testing library for .Net languages. More information about NUnit can be found on http://www.nunit.org/. The implementaion is based on version 2.6.4.
+  
 * https://github.com/SpaceMadness/lunar-unity-assert
 
 
