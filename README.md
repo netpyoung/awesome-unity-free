@@ -15,6 +15,7 @@ share share share! as possible!
   * [Unity Personal](#unity-personal)
   * [Awsome dotnet](#awesome-dotnet)
   * [IDE](#ide)
+  * [GUI](#gui)
   * [Format](#format)
   * [Tween](#tween)
   * [Serialization](#serialization)
@@ -67,6 +68,9 @@ share share share! as possible!
 
 ## IDE
 * [consulo](http://consulo.site/) based on intellij
+
+## GUI
+* [FairyGUI](https://github.com/fairygui/FairyGUI-unity) - windows, mac editor - supoprt cross platform(unity, flash, Starling, Cocos2D-X, UE4, libgdx ... )
 
 ## Format
 * [little-sharps/string_format](https://github.com/little-sharps/string_format)
