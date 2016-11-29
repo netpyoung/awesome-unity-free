@@ -148,6 +148,8 @@ share share share! as possible!
 
 ### Reactive
 * [neuecc/UniRx](https://github.com/neuecc/UniRx) - Reactive Extensions for Unity
+  - https://ruk.si/notes/unity/unity_unirx
+  - http://rxmarbles.com/
 * [ecsrx](https://github.com/grofit/ecsrx)
 
 
