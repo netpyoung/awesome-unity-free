@@ -67,7 +67,11 @@ share share share! as possible!
 
 
 ## IDE
+* [Unity3DRider](https://github.com/JetBrains/Unity3dRider)
 * [consulo](http://consulo.site/) based on intellij
+* [VisualStudio](https://www.visualstudio.com/)
+  - [VisaulStudioCode](https://code.visualstudio.com/download)
+  - [VisualStudio For Mac](https://www.visualstudio.com/vs/visual-studio-mac/)
 
 ## GUI
 * [FairyGUI](https://github.com/fairygui/FairyGUI-unity) - windows, mac editor - supoprt cross platform(unity, flash, Starling, Cocos2D-X, UE4, libgdx ... )
