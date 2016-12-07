@@ -35,7 +35,7 @@ share share share! as possible!
   * [Protocol](#protocol)
   * [PackageManager](#packagemanager)
   * [Script](#script)
-
+  * [Decompiler](#decompiler)
 
 * [Tutorial](#tutorial)
 * [Etc](#etc)
@@ -197,6 +197,9 @@ share share share! as possible!
   - [MoonSharp](https://github.com/xanathar/moonsharp/)
   - [NLua](https://github.com/NLua/NLua)
 
+## Decompiler
+* [dll - jetbrains](https://www.jetbrains.com/decompiler/)
+* [jar - jdproject](http://jd.benow.ca/)
 
 ## Tutorial
 
