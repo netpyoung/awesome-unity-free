@@ -31,6 +31,7 @@ share share share! as possible!
   * [Framework](#framework)
     - [Reactive](#reactive)
   * [Tools](#tools)
+  * [FX](#fx)
   * [Testing](#testing)
   * [Protocol](#protocol)
   * [PackageManager](#packagemanager)
@@ -105,6 +106,7 @@ share share share! as possible!
 * [aaubry/YamlDotNet](https://github.com/aaubry/YamlDotNet) - YamlDotNet is a .NET library for YAML ([#assetstore](https://www.assetstore.unity3d.com/en/#!/content/36292))
 * [rickyah/ini-parser](https://github.com/rickyah/ini-parser) (#dll #net20)
 * [mustache-sharp-3.5](https://www.nuget.org/packages/mustache-sharp-3.5/) (#dll #nuget)
+* [dotliquid](https://www.nuget.org/packages/DotLiquid/1.8.0)
 
 
 ## Network
@@ -157,6 +159,8 @@ share share share! as possible!
 * [ecsrx](https://github.com/grofit/ecsrx)
 
 
+## FX
+* [effekseer/Effekseer](https://github.com/effekseer/Effekseer)
 
 
 ## Tools
