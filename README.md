@@ -15,6 +15,7 @@ share share share! as possible!
   * [Unity Personal](#unity-personal)
   * [Awsome dotnet](#awesome-dotnet)
   * [IDE](#ide)
+  * [Tool](#tool)
   * [GUI](#gui)
   * [Format](#format)
   * [Tween](#tween)
@@ -73,6 +74,9 @@ share share share! as possible!
 * [VisualStudio](https://www.visualstudio.com/)
   - [VisaulStudioCode](https://code.visualstudio.com/download)
   - [VisualStudio For Mac](https://www.visualstudio.com/vs/visual-studio-mac/)
+
+## TOOL
+* [il-repack](https://github.com/gluck/il-repack) : ILRepack is meant at replacing ILMerge / Mono.Merge.
 
 ## GUI
 * [FairyGUI](https://github.com/fairygui/FairyGUI-unity) - windows, mac editor - supoprt cross platform(unity, flash, Starling, Cocos2D-X, UE4, libgdx ... )
