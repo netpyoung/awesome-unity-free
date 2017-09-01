@@ -1,7 +1,7 @@
 # Awesome Unity FREE
 A community driven list of useful Unity Game Engine "FREE" packages, libraries and others.
 
-why not [aswome-unity](https://github.com/RyanNielson/awesome-unity)?
+why not [awesome-unity](https://github.com/RyanNielson/awesome-unity)?
 
 > packages used paid asset, difficult to share.
 
