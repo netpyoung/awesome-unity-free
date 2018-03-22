@@ -77,6 +77,8 @@ share share share! as possible!
 
 ## TOOL
 * [il-repack](https://github.com/gluck/il-repack) : ILRepack is meant at replacing ILMerge / Mono.Merge.
+* [ssh.net](https://github.com/sshnet/SSH.NET)
+* [edtFTP](https://enterprisedt.com/products/edtftpnet/download/) : lgpl
 
 ## GUI
 * [FairyGUI](https://github.com/fairygui/FairyGUI-unity) - windows, mac editor - supoprt cross platform(unity, flash, Starling, Cocos2D-X, UE4, libgdx ... )
