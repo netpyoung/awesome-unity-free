@@ -1,0 +1,35 @@
+## [Visual Studio Community](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx)
+
+
+## General
+* [CodeMaid](https://visualstudiogallery.msdn.microsoft.com/76293c4d-8c16-4f4a-aee6-21f83a571496)
+* [Codinion](https://visualstudiogallery.msdn.microsoft.com/504311cf-bd01-4b12-bca3-a3e5d9505b76)
+* [Code alignment](https://visualstudiogallery.msdn.microsoft.com/7179e851-a263-44b7-a177-1d31e33c84fd)
+* [Trailing Whitespace Visualizer](https://visualstudiogallery.msdn.microsoft.com/a204e29b-1778-4dae-affd-209bea658a59)
+* [CommentsPlus](https://visualstudiogallery.msdn.microsoft.com/f76e86e3-03ca-4ac8-ba88-58c8f8d818f4)
+* [VSColorOutput](https://visualstudiogallery.msdn.microsoft.com/f4d9c2b5-d6d7-4543-a7a5-2d7ebabc2496)
+* [Output enhancer](https://visualstudiogallery.msdn.microsoft.com/d2055300-5075-4059-a305-56422f4e29b5)
+* [NUnit Test Adapter](https://visualstudiogallery.msdn.microsoft.com/6ab922d0-21c0-4f06-ab5f-4ecd1fe7175d) - unity test tool used 2.6.4
+* [StyleCop](https://marketplace.visualstudio.com/items?itemName=ChrisDahlberg.StyleCop)
+* [Viasfora](https://visualstudiogallery.msdn.microsoft.com/19609469-380e-4fcf-bcde-e31caeb658b2)
+* [Trim Line Ends](https://marketplace.visualstudio.com/items?itemName=cpmcgrath.TrimLineEnds)
+* [SemanticColorizer](https://visualstudiogallery.msdn.microsoft.com/fd89374f-892a-42d6-8207-da8fefa93fdf)
+
+## Microsoft
+* [Productivity Power Tools 2017](https://github.com/Microsoft/VS-PPT)
+  * [Align Assignments](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.AlignAssignments)
+  * [Copy As Html](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.CopyAsHtml)
+  * [Ctrl+Click GoTo Definition](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.CtrlClickGoToDefinition)
+  * [Custom Document Well](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.CustomDocumentWell)
+  * [Double-Click Maximize](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.Double-ClickMaximize)
+  * [Editor Guidelines](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.EditorGuidelines)
+  * [Fix Mixed Tabs](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.FixMixedTabs)
+  * [Match Margin](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.MatchMargin)
+  * [Middle-Click Scroll](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.MiddleClickScroll)
+  * [Peek Help](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.PeekHelp)
+  * [Quick Launch Tasks](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.QuickLaunchTasks)
+  * [Solution Error Visualizer](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.SolutionErrorVisualizer)
+  * [Power Commands for Visual Studio](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.PowerCommandsforVisualStudio)
+  * [Shrink Empty Lines](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.SyntacticLineCompression)
+  * [Time Stamp Margin](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.TimeStampMargin)
+  * [PPT Options Page](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerToolsOptionsPage)

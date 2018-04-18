@@ -57,14 +57,12 @@ share share share! as possible!
 ## [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 
 
-* [Unity currently supports .NET 2.0/3.5 era functionality for both the C# compiler and the class libraries.](http://blogs.unity3d.com/2014/05/20/the-future-of-scripting-in-unity/)
 
-
+```
     Scripting: Mono Runtime Upgrade
     Upgrade Mono Runtime against our current .Net 2.0 and 2.0 Subset profiles.
     This includes many fixes and improvements, but does not include an upgrade to the .Net 4.6 profile.
-
-
+```
 
 
 
@@ -75,10 +73,12 @@ share share share! as possible!
   - [VisaulStudioCode](https://code.visualstudio.com/download)
   - [VisualStudio For Mac](https://www.visualstudio.com/vs/visual-studio-mac/)
 
+
 ## TOOL
 * [il-repack](https://github.com/gluck/il-repack) : ILRepack is meant at replacing ILMerge / Mono.Merge.
 * [ssh.net](https://github.com/sshnet/SSH.NET)
 * [edtFTP](https://enterprisedt.com/products/edtftpnet/download/) : lgpl
+
 
 ## GUI
 * [FairyGUI](https://github.com/fairygui/FairyGUI-unity) - windows, mac editor - supoprt cross platform(unity, flash, Starling, Cocos2D-X, UE4, libgdx ... )
@@ -111,7 +111,6 @@ share share share! as possible!
 ## DSL
 * [aaubry/YamlDotNet](https://github.com/aaubry/YamlDotNet) - YamlDotNet is a .NET library for YAML ([#assetstore](https://www.assetstore.unity3d.com/en/#!/content/36292))
 * [rickyah/ini-parser](https://github.com/rickyah/ini-parser) (#dll #net20)
-* [mustache-sharp-3.5](https://www.nuget.org/packages/mustache-sharp-3.5/) (#dll #nuget)
 * [dotliquid](https://www.nuget.org/packages/DotLiquid/1.8.0)
 
 
@@ -126,6 +125,7 @@ share share share! as possible!
 * [Busta117/SQLiteUnityKit](https://github.com/Busta117/SQLiteUnityKit) - Framework to connect with a SQLite database from Unity for iOS, Android, MAC , Windows
 * [codecoding/SQLite4Unity3d](https://github.com/codecoding/SQLite4Unity3d) - SQLite made easy for Unity3d
 * [netpyoung/SqlChiper4Unity3D](https://github.com/netpyoung/SqlCipher4Unity3D) - SqlCipher made easy for Unity3d
+
 
 ## Log
 * [SpaceMadness/lunar-unity-console](https://github.com/SpaceMadness/lunar-unity-console)
@@ -144,6 +144,7 @@ share share share! as possible!
 ## Compression
 * [SharpzipLib](https://github.com/icsharpcode/SharpZipLib) -  #ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform
 * [lz4net](https://github.com/MiloszKrajewski/lz4net) - LZ4 - ultra fast compression algorithm - for all .NET platforms
+
 
 ## Gesture
 * [prime31/TouchKit](https://github.com/prime31/TouchKit)
@@ -186,7 +187,7 @@ share share share! as possible!
 ## Testing
 * [Unity Test Tools](https://www.assetstore.unity3d.com/en/#!/content/13802)
   - The Editor Tests Runner is an implementation of the open source NUnit library - a well-known unit testing library for .Net languages. More information about NUnit can be found on http://www.nunit.org/. The implementaion is based on version 2.6.4.
-  
+
 * https://github.com/SpaceMadness/lunar-unity-assert
 
 
@@ -207,6 +208,8 @@ share share share! as possible!
   - [MoonSharp](https://github.com/xanathar/moonsharp/)
   - [NLua](https://github.com/NLua/NLua)
 
+* [Schemy](https://github.com/Microsoft/schemy)
+
 ## Decompiler
 * [dll - jetbrains](https://www.jetbrains.com/decompiler/)
 * [jar - jdproject](http://jd.benow.ca/)
@@ -222,18 +225,3 @@ share share share! as possible!
 
 ## ETC
 * http://regexstorm.net/
-
-### tag-list
-```tag-list
-#dll
-#assetstore
- - ONLY FREE VERSION
- - don't share if it has both Lite(free) and Pro(paid) version.(it is okay when source is opened.)
-#unityengine
-#unitypackage
-#net20, #net30, #net35
-#editor-only
-#IL2CPP(mono2.0)
-#IL2CPP(mono2.0-subset-only)
-#non-dotnet
-```
