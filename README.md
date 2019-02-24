@@ -38,6 +38,7 @@ share share share! as possible!
   * [PackageManager](#packagemanager)
   * [Script](#script)
   * [Decompiler](#decompiler)
+  * [Camera](#camera)
 
 * [Tutorial](#tutorial)
 * [Etc](#etc)
@@ -213,6 +214,10 @@ share share share! as possible!
 ## Decompiler
 * [dll - jetbrains](https://www.jetbrains.com/decompiler/)
 * [jar - jdproject](http://jd.benow.ca/)
+
+## Camera
+* [Dynamic Multi Target Camera for Unity](https://github.com/lopespm/unity-camera-multi-target) - Concise Unity library which dynamically keeps a set of objects (e.g. players and important objects) in view.
+
 
 ## Tutorial
 
