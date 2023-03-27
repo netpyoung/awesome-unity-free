@@ -15,6 +15,7 @@ share share share! as possible!
   * [Unity Personal](#unity-personal)
   * [Awsome dotnet](#awesome-dotnet)
   * [IDE](#ide)
+  * [Audio](#audio)
   * [Tool](#tool)
   * [GUI](#gui)
   * [Format](#format)
@@ -73,6 +74,11 @@ share share share! as possible!
 * [VisualStudio](https://www.visualstudio.com/)
   - [VisaulStudioCode](https://code.visualstudio.com/download)
   - [VisualStudio For Mac](https://www.visualstudio.com/vs/visual-studio-mac/)
+
+
+## AUDIO
+
+* [Unity-Audio-Manager](https://github.com/MathewHDYT/Unity-Audio-Manager) - Plugin, that allows to easily play/change/stop/mute/... sounds in 2D/3D
 
 
 ## TOOL
